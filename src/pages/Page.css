@@ -1,0 +1,32 @@
+#content {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.compare-card {
+    .card-base {
+        width: 250px;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+}
+
+.compare-box {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+}
+
+.inputField {
+    width: 250px;
+
+}
+
+.inputField input {
+    width: 135px;
+}
